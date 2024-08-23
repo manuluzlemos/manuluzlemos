@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 <h2 align="center">Hi 👋, I'm Emanuelle Lemos</h2>
 <h4 align="center">A computer engineer from Brazil who is passionate about technology.</h4>
 
-- 🔭 I’m currently working **as software developer.**
-
-- 🌱 I’m currently learning **Java and AWS Technologies**
+- 🔭 I’m currently working **as data engineer.**
 
 - 📫 How to reach me **manuluz.lemos@gmail.com**
 
